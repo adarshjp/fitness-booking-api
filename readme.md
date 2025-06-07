@@ -18,7 +18,7 @@ This project is a Django-based API for managing and booking fitness classes.
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
+    git clone https://github.com/adarshjp/fitness-booking-api.git
     cd fitness-booking-api
     ```
 
